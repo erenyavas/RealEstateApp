@@ -7,6 +7,7 @@
 - **User Authentication**: User authentication and role-based access control using `ASP.NET Core Identity`.
 - **Internationalization**: Multi-language support (Turkish and English) using `i18n`.
 - **Map Integration**: View and filter properties on an interactive map using `React Leaflet`.
+- **Server-Side Paging and Filtering**: Efficiently manage large datasets with server-side paging and filtering for property listings.
 - **Admin Dashboard**: Admin panel for managing all aspects of the real estate app.
 - **Logging**: Comprehensive logging system to track and record application activities using `Serilog`.
 - **Rate Limiting**: Protect APIs with rate limiting to control the number of requests from users or clients.
