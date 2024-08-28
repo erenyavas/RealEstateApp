@@ -1,0 +1,4 @@
+scrape_configs:
+  - job_name: 'real-estate'
+    static_configs:
+      - targets: ['dotnetapp:80']
